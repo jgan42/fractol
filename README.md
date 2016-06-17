@@ -13,6 +13,8 @@ Project restrictions : subject.pdf
 Run :
   make && ./fractol [mandelbrot|julia|buddha|BuddhaAdvanced] || [m|j|b|B]
 
+There are some screenshots too !
+
 With Minilibx (graphic mini-lib by ol@42, present in this repo)
 
 Start : January 3, 2016
