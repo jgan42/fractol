@@ -1,4 +1,7 @@
 # 42school Project : C
+
+Graphical project displaying fractals
+
 # fract_ol
 
 Requirement (built on) :
